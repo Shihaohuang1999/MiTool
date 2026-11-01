@@ -14,11 +14,11 @@ DIM = "dim"
 RED = "bold red"
 
 TOOLS = {
-    "1": ("Unlock Bootloader", "miunlock"),
+    "1": ("UBL"),
     "2": ("Flash Fastboot ROM.tgz", "miflash"),
     "3": ("Mi Assistant", "miasst"),
     "4": ("Firmware Content Extractor", "fcetool"),
-    "5": ("Apply Unlock Permission", "miapply"),
+    "5": ("Request UBL"),
 }
 
 
